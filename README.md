@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi! My name is Miroslav.
+
+I develop native mobile applications for Android.</br>
+⚙️ I'm currently working on a pet project — a [weather app](https://github.com/CyberInitiative/Weather-Forecast-Application-With-Compose). Be sure to check it out!</br>
+📂 Feel free to explore my other repositories too!
+
+### 📫 Contact me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/miroslav-levdikov-493b82251/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:torenux@gmail.com)
 
 <!--
 **CyberInitiative/CyberInitiative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
